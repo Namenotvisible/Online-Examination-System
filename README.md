@@ -28,5 +28,5 @@ The platform operates on a centralized Client-Server Architecture separated by a
 
 1. **Clone the repository:**
 ```bash
-   git clone [https://github.com/Namenotvisible/Online-Examination-System.git](https://github.com/Namenotvisible/Online-Examination-System.git)
+   git clone [https://github.com/Namenotvisible/Online-Examination-System.git]
    cd Online-Examination-System
